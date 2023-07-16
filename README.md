@@ -11,8 +11,8 @@ Extended security ends: soon
 
 Nese Vista                  
 Start date: soon                   
-Mainstream ends: 01.05.2025              
-Extended security ends: 02.06.2027 
+Mainstream ends: soon              
+Extended security ends: soon 
 
 Nese 7                  
 Start date: soon                   
