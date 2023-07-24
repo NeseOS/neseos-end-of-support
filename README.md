@@ -18,3 +18,14 @@ Nese 7
 Start date: soon                   
 Mainstream ends: 01.05.2025              
 Extended security ends: 02.06.2028 
+
+Nese 10                  
+Start date: soon                   
+Mainstream ends: 01.05.2032              
+Extended security ends: 02.06.2037 
+
+
+Nese Server 2020                  
+Start date: soon                   
+Mainstream ends: 01.05.2034              
+Extended security ends: 02.06.2039 
