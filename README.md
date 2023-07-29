@@ -13,7 +13,9 @@ Extended security ends: 12.12.2023
 
 
 Nese Longhorn  
-Start date: soon                Mainstream ends: soon           Extended security ends: soon
+Start date: soon                
+Mainstream ends: soon           
+Extended security ends: soon
 
 
 Nese Vista                  
