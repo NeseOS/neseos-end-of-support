@@ -1,4 +1,11 @@
 # Ends of support list: 
+Nese 2000    
+Start date: 03.07.2023   
+Mainstream ends: 01.09.2023     
+Extended security ends: 12.12.2023 
+
+
+
 Nese XP    Start date: 03.07.2023   Mainstream ends: 01.09.2023     Extended security ends: 12.12.2023 
 
 
