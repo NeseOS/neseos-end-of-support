@@ -25,7 +25,7 @@ Extended security ends: soon
 
 Nese 7                  
 Start date: soon                   
-Mainstream ends: 01.05.2025              
+Mainstream ends: 14.01.2025 (January 14th 2025)              
 Extended security ends: 14.01.2028 (January 14th 2028) 
 
 Nese 10                  
