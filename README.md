@@ -33,6 +33,12 @@ Start date: soon
 Mainstream ends: 14.01.2025 (January 14th 2025)              
 Extended security ends: 14.01.2028 (January 14th 2028) 
 
+Nese Embedded Standard 7                  
+Start date: soon (soon)                   
+Mainstream ends: soon (soon)   
+
+Extended security ends: soon (soon) 
+
 Nese 10                  
 Start date: soon                   
 Mainstream ends: 01.05.2032              
