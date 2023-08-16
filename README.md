@@ -36,7 +36,7 @@ Extended security ends: 14.01.2028 (January 14th 2028)
 Nese Embedded Standard 7                  
 Start date: soon (soon)                   
 Mainstream ends: soon (soon)   
-Extended security ends: soon (soon) 
+Extended security ends: 14.01.2029 (January 14th 2029) 
 
 
 Nese Medallion 7 Professional (only x64)                  
