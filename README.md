@@ -41,8 +41,8 @@ Extended security ends: soon (soon)
 
 Nese Medallion 7 Professional (only x64)                  
 Start date: soon (soon)                   
-Mainstream ends: soon (soon)              
-Extended security ends: soon (soon)
+Mainstream ends: 14.12.2045 (December 14th 2045)              
+Extended security ends: 14.01.2060 (January 14th 2060)
 
 
 Nese 10                  
