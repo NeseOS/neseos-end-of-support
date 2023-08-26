@@ -11,6 +11,14 @@ Start date: 03.07.2023 (July 3rd 2023)
 Mainstream ends: 01.09.2023 (September 1st 2023)     
 Extended security ends: 12.12.2023 (December 12th 2023) 
 
+Nese XP (23H3)    
+Start date: 21.08.2023 (August 21st 2023)   
+End of support: 15.09.2023 (September 15th 2023)
+
+Nese XP (23H4)    
+Start date: 26.08.2023 (August 26th 2023)   
+End of support: 02.10.2023 (October 2nd 2023)
+
 Nese XP Home Edition (only x86 and sp3)    
 Start date: soon (soon)   
 Mainstream ends: 01.12.2023 (December 1st 2023)     
