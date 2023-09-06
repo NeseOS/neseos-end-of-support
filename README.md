@@ -32,7 +32,7 @@ Start date: 31.08.2023 (August 31st 2023)
 End of support: 24.11.2023 (November 24th 2023)
 
 Nese XP (24H0)    
-Start date: soon (soon)   
+Start date: 06.09.2023 (September 6th 2023)   
 End of support: 25.10.2023 (October 25th 2023)
 
 Nese XP (24H1)    
