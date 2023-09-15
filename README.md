@@ -11,7 +11,6 @@ Nese XP
 Start date: 03.07.2023 (July 3rd 2023)   
 Mainstream ends: 01.09.2023 (September 1st 2023)    
 Extended support ends: 01.11.2023 (November 1st 2023) 
-
 Extended security ends: 12.12.2023 (December 12th 2023) 
 
 Nese XP (23H3)    
@@ -86,8 +85,9 @@ Extended support ends: 31.08.2026 (August 31st 2026)
 Extended security ends: 13.06.2027 (June 13th 2027) 
 
 Nese 7                  
-Start date: soon                   
-Mainstream ends: 14.01.2025 (January 14th 2025)              
+Start date: soon    
+Mainstream ends: 14.01.2025 (January 14th 2025) 
+Extended support ends: 14.01.2027 (January 14th 2027) 
 Extended security ends: 14.01.2028 (January 14th 2028) 
 
 Nese Embedded Standard 7                  
