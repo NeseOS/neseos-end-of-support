@@ -90,6 +90,10 @@ Extended support ends: 31.08.2026 (August 31st 2026)
 
 Extended security ends: 13.06.2027 (June 13th 2027) 
 
+Nese Vista (23U2)    
+Start date: 03.09.2023 (September 3rd 2023)   
+End of support: 02.08.2024 (August 2nd 2024)
+
 Nese 7                  
 Start date: soon    
 
