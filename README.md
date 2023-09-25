@@ -62,12 +62,14 @@ End of support: 12.12.2023 (December 12th 2023)
 Nese XP Home Edition (only x86 and sp3)    
 Start date: 02.09.2023 (September 2nd 2023)   
 Mainstream ends: 01.12.2023 (December 1st 2023)     
+Extended support ends: 01.02.2024 (February 1st 2024)     
 Extended security ends: 08.04.2024 (April 8th 2024) 
 
 Nese Server 2003     
 Start date: 02.09.2023 (September 2nd 2023)   
 Mainstream ends: 12.12.2023 (December 12th 2023)     
 Extended support ends: 05.01.2024 (January 5th 2024)
+
 Extended security ends: 08.06.2024 (June 8th 2024) 
 
 
