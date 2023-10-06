@@ -15,7 +15,7 @@ Mainstream ends: 01.09.2023 (September 1st 2023)
 Extended security ends: 12.12.2023 (December 12th 2023) 
 
 
-Nese XP (23H2 Pro) (Discord support) 
+Nese XP (23H2 Pro) (Discord support)  
 Start date: 21.08.2023 (August 21st 2023)   
 End of support: 15.09.2023 (September 15th 2023)
 
