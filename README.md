@@ -72,6 +72,10 @@ Nese XP (24H3)
 Start date: soon (soon)   
 End of support: 12.12.2023 (December 12th 2023)
 
+Nese XP (24H3) (Special Cumhuriyet Day)  
+Start date: soon (soon)     
+End of support: 31.12.2023 (December 31st 2023)
+
 
 Nese XP Home Edition (only x86 and sp3)    
 Start date: 02.09.2023 (September 2nd 2023)   
