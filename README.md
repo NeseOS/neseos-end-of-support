@@ -76,6 +76,10 @@ Nese XP (24H3)
 Start date: soon (soon)   
 End of support: 12.12.2023 (December 12th 2023)
 
+Nese XP (24H3) (roll-up update)   
+Start date: soon (soon)   
+End of support: 04.01.2024 (January 4th 2024)
+
 Nese XP (24H3) (Special Cumhuriyet Day)  
 Start date: soon (soon)     
 End of support: 31.12.2023 (December 31st 2023)
