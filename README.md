@@ -14,7 +14,7 @@ Extended support ends: 01.11.2023 (November 1st 2023)
 Extended security ends: 12.12.2023 (December 12th 2023) 
 
 Nese XP (SP1)    
-Start date: 03.07.2023 (July 3rd 2023) 
+Start date: 03.07.2023 (July 3rd 2023)    
 End of support: 08.11.2023 (November 8th 2023) 
 
 
