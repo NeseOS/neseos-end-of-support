@@ -24,7 +24,7 @@ End of support: 12.12.2023 (December 12th 2023)
 
 
 Nese XP Professional (x86) (SP3)    
-Start date: 07.07.2023 (July 7th 2023)    
+Start date: 12.10.2023 (October 12th 2023)    
 End of support: 12.12.2023 (December 12th 2023) 
 
 
