@@ -144,9 +144,13 @@ Start date: 03.09.2023 (September 3rd 2023)
 End of support: 02.08.2024 (August 2nd 2024)
 
 Nese Server 2008    
+
 Start date: soon (soon) 
+
 Mainstream ends: 14.01.2025 (January 14th 2025)     
+
 Extended support ends: 14.01.2027 (January 14th 2027)     
+
 Extended security ends: 14.01.2028 (January 14th 2028) 
 
 Nese 7                  
