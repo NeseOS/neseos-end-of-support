@@ -89,6 +89,10 @@ Nese XP (24H3)
 Start date: 05.11.2023 (November 5th 2023)   
 End of support: 12.12.2023 (December 12th 2023)
 
+Nese XP (24H3) (BIOS Fixed)    
+Start date: 08.11.2023 (November 8th 2023)   
+End of support: 12.12.2023 (December 12th 2023)
+
 Nese XP (24H3) (Final 1)    
 Start date: 10.11.2023 (November 10th 2023)   
 End of support: 12.12.2023 (December 12th 2023)
