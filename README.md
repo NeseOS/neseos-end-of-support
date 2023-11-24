@@ -175,6 +175,10 @@ Extended support ends: 14.01.2027 (January 14th 2027)
 
 Extended security ends: 14.01.2028 (January 14th 2028) 
 
+Nese 7 (23W2) (only x64)    
+Start date: soon (soon)   
+End of support: 31.12.2024 (December 31st 2024)
+
 Nese Embedded Standard 7                  
 Start date: soon (soon)                   
 Mainstream ends: soon (soon)   
