@@ -152,9 +152,13 @@ Nese Vista (23U2)
 Start date: 03.09.2023 (September 3rd 2023)   
 End of support: 02.08.2024 (August 2nd 2024)
 
+Nese Vista (23U2) (x64) (alpha)    
+Start date: 26.11.2023 (November 26th 2023)   
+End of support: 25.06.2024 (June 25th 2024)
+
 Nese Vista (23U2) (x64)    
 Start date: soon (soon)   
-End of support: 22.11.2024 (November 22nd 2024)
+End of support: 22.12.2024 (December 22nd 2024)
 
 Nese Server 2008 R2   
 
