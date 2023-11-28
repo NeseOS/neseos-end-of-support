@@ -160,7 +160,7 @@ Nese Vista (23U2) (x64)
 Start date: 27.11.2023 (November 27th 2023)   
 End of support: 22.12.2024 (December 22nd 2024)
 
-Nese Vista (23U2)    
+Nese Vista (23U3)    
 Start date: 28.11.2023 (November 28th 2023)   
 End of support: 14.01.2025 (January 14th 2025)
 
