@@ -89,6 +89,10 @@ Nese XP (24H3)
 Start date: 05.11.2023 (November 5th 2023)   
 End of support: 12.12.2023 (December 12th 2023)
 
+NeseOS Visual C++ 2005 Redistribute (x64)    
+Start date: 19.08.2023 (August 19th 2023)   
+End of support: 12.12.2028 (December 12th 2028)
+
 Nese XP (24H3) (Final 1)    
 Start date: 10.11.2023 (November 10th 2023)   
 End of support: 12.12.2023 (December 12th 2023
