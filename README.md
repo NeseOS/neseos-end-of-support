@@ -178,7 +178,7 @@ End of support: 14.04.2025 (April 14th 2025)
 
 Nese Server 2008 R2   
 
-Start date: soon (soon) 
+Start date: 09.12.2023 (December 9th, 2023) 
 
 Mainstream ends: 14.01.2025 (January 14th 2025)     
 
