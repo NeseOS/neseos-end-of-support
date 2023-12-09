@@ -187,11 +187,11 @@ Extended support ends: 14.01.2027 (January 14th 2027)
 Extended security ends: 14.01.2028 (January 14th 2028) 
 
 Nese Server 2008 R2 (23W2) (only x64)  
-Start date: soon (soon)    
+Start date: 09.12.2023 (December 9th 2023)    
 End of support: 14.10.2025 (October 14th 2025)
 
 Nese 7                  
-Start date: soon    
+Start date: soon (soon)    
 
 Mainstream ends: 14.01.2025 (January 14th 2025) 
 
