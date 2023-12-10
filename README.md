@@ -204,11 +204,11 @@ Start date: soon (soon)
 End of support: 31.12.2024 (December 31st 2024)
 
 
-Nese 7 (Extended Security Updates Year 1*) (only x64)    
+Nese 7 (Extended Security Updates Year 1*) (Only Licensed Users) (only x64)   
 Start date: soon (soon)   
 End of support: 14.01.2029 (January 14th 2029)
 
-Nese 7 (Extended Security Updates Year 2*) (only x64)    
+Nese 7 (Extended Security Updates Year 2*) (Only Licensed users) (only x64)   
 Start date: soon (soon)   
 End of support: 14.01.2030 (January 14th, 2030)
 
