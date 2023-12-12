@@ -28,7 +28,7 @@ Start date: 12.10.2023 (October 12th 2023)
 End of support: 12.12.2023 (December 12th 2023) 
 
 Nese XP Professional (x86) (SP4) (Extra Extended Security Updates)      
-Start date: 13.12.2023 (December 13th 2023)    
+Start date: soon (soon)    
 End of support: 12.01.2024 (January 12th 2024) 
 
 
