@@ -2,7 +2,7 @@
 Nese 2000    
 Start date: 30.07.2023 (July 30th 2023)   
 Mainstream ends: 15.10.2023 (October 15th 2023)     
-Extended support ends: 20.12.2023 (December 20th 2023)     
+Extended support ends: 22.12.2023 (December 22nd 2023)     
 Extended security ends: 08.02.2024 (Febuary 8th 2024) 
 
 
@@ -11,7 +11,7 @@ Nese XP
 Start date: 03.07.2023 (July 3rd 2023) (Started 163 days ago)               
 Mainstream ends: 01.09.2023 (September 1st 2023) (Ended 103 days ago)     
 Extended support ends: 01.11.2023 (November 1st 2023) (Ended 42 days ago)     
-Extended security ends: 12.12.2023 (December 12th 2023) (Ended 4 days ago. See in "https://news.neseos.free.nf/news/eos/1.html" this link) 
+Extended security ends: 12.12.2023 (December 12th 2023) (Ended 7 days ago. See in "https://news.neseos.free.nf/news/eos/1.html" this link) 
 
 Nese XP (SP1)    
 Start date: 03.07.2023 (July 3rd 2023)    
