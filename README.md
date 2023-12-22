@@ -161,7 +161,7 @@ Extended support ends: 31.08.2026 (August 31st 2026)
 Extended security ends: 13.06.2027 (June 13th 2027) 
 
 Nese Vista (PS99 Edition) (Pet Simulator 99 Edition)           
-Start date: soon (soon)                
+Start date: 22.12.2023 (December 22nd 2023)                
 Mainstream ends: 14.06.2025 (June 14th 2025)      
 Extended support ends: 02.09.2026 (September 2nd 2026) 
 
@@ -186,6 +186,10 @@ End of support: 14.01.2025 (January 14th 2025)
 Nese Vista (23U3) (x64)    
 Start date: 29.11.2023 (November 29th 2023)   
 End of support: 14.02.2025 (February 14th 2025)
+
+Nese Vista (23U2) (PS99 Edition) (x64) 
+Start date: 22.12.2023 (December 22nd 2023)   
+End of support: 22.10.2024 (October 22nd 2024)
 
 Nese Vista (24U1)    
 Start date: soon (soon)   
