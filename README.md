@@ -187,7 +187,7 @@ Nese Vista (23U3) (x64)
 Start date: 29.11.2023 (November 29th 2023)   
 End of support: 14.02.2025 (February 14th 2025)
 
-Nese Vista (23U2) (PS99 Edition) (x64)  
+Nese Vista (24U0) (PS99 Edition) (x64)  
 Start date: 22.12.2023 (December 22nd 2023)   
 End of support: 22.10.2024 (October 22nd 2024)
 
