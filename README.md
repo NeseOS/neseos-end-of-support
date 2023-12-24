@@ -2,7 +2,7 @@
 Nese 2000    
 Start date: 30.07.2023 (July 30th 2023)   
 Mainstream ends: 15.10.2023 (October 15th 2023)     
-Extended support ends: 24.12.2023 (December 24th 2023)     
+Extended support ends: 25.12.2023 (December 25th 2023)     
 Extended security ends: 08.02.2024 (Febuary 8th 2024) 
 
 
@@ -253,3 +253,9 @@ Nese Server 2020
 Start date: soon                   
 Mainstream ends: 01.05.2034              
 Extended security ends: 02.06.2039 
+
+Nese 11 (only x64)    
+Start date: soon (soon)   
+Mainstream ends: 02.05.2033 (May 2nd 2033)     
+Extended support ends: 04.02.2037 (February 4th 2037)     
+Extended security ends: 12.12.2039 (December 12th 2039) 
