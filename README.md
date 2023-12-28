@@ -6,6 +6,11 @@ Extended support ends: 29.12.2023 (December 29th 2023)
 Extended security ends: 08.02.2024 (Febuary 8th 2024) 
 
 
+Nese 2000 (24H2)    
+Start date: 28.12.2023 (December 28th 2023)   
+End of support: 24.01.2024 (January 24th 2024)
+
+
 
 Nese XP    
 Start date: 03.07.2023 (July 3rd 2023) (Started 169 days ago)               
