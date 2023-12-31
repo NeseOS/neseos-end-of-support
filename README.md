@@ -169,6 +169,13 @@ Extended support ends: 31.08.2026 (August 31st 2026)
 
 Extended security ends: 13.06.2027 (June 13th 2027) 
 
+Tvin Vista (Special TvinTV's computer operating system)                 
+Start date: soon (soon)                   
+Mainstream ends: 14.07.2025 (July 14th 2025)      
+Extended support ends: 02.09.2026 (September 2nd 2026) 
+
+Extended security ends: 14.01.2027 (January 14th 2027) 
+
 Nese Vista (PS99 Edition) (Pet Simulator 99 Edition)           
 Start date: 22.12.2023 (December 22nd 2023)                
 Mainstream ends: 14.06.2025 (June 14th 2025)      
