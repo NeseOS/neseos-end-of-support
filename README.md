@@ -11,7 +11,7 @@ Start date: 28.12.2023 (December 28th 2023)
 End of support: 24.01.2024 (January 24th 2024)
 
 Nese 2000 (24H3)    
-Start date: 02.01.2024 (January 2nd 2024) (sorry for late due testing)   
+Start date: 02.01.2024 (January 2nd 2024) (sorry for late due to testing)   
 End of support: 31.01.2024 (January 31st 2024)
 
 
