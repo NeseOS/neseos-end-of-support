@@ -226,7 +226,7 @@ Start date: 09.12.2023 (December 9th 2023)
 End of support: 14.10.2025 (October 14th 2025)
 
 Nese 7                  
-Start date: soon (soon)    
+Start date: 04.01.2024 (January 4th 2024)    
 
 Mainstream ends: 14.01.2025 (January 14th 2025) 
 
@@ -235,8 +235,8 @@ Extended support ends: 14.01.2027 (January 14th 2027)
 Extended security ends: 14.01.2028 (January 14th 2028) 
 
 Nese 7 (23W2) (only x64)    
-Start date: soon (soon)   
-End of support: 31.12.2024 (December 31st 2024)
+Start date: 04.01.2024 (January 4th 2024)   
+End of support: 02.01.2025 (January 2nd 2025)
 
 
 Nese 7 (Extended Security Updates Year 1*) (Only Licensed Users) (only x64)   
