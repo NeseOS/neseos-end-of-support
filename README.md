@@ -135,6 +135,10 @@ Nese XP (24H11) (x86) (Extra ESU)
 Start date: 14.12.2023 (December 14, 2023)   
 End of support: 05.01.2024 (January 5th, 2024)
 
+Nese XP (24H13) (x86) (Extra ESU)    
+Start date: 23.01.2024 (January 23rd 2024)   
+End of support: 01.02.2024 (February 1st 2024)
+
 
 Nese XP Home Edition (only x86 and sp3)    
 Start date: 02.09.2023 (September 2nd 2023)   
