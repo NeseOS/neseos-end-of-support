@@ -262,6 +262,17 @@ Start date: soon (soon)
 Mainstream ends: 14.12.2045 (December 14th 2045)              
 Extended security ends: 14.01.2060 (January 14th 2060)
 
+Nese 9 (only x64)                  
+Start date: 30.01.2024 (January 30th 2024)                   
+Mainstream ends: 02.03.2026 (March 2nd 2026)      
+Extended support ends: 02.07.2028 (July 2nd 2028) 
+
+Extended security ends: 20.02.2029 (February 20th 2029) 
+
+Nese 9 (25K1) (only x64)    
+Start date: 30.01.2024 (January 30th 2024)   
+End of support: 29.01.2025 (January 29th 2025)
+
 
 Nese 10                  
 Start date: soon                   
