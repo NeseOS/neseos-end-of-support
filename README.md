@@ -96,7 +96,7 @@ End of support: 01.12.2023 (December 1st 2023)
 
 Nese XP (24H2) (roll-up update)   
 Start date: soon (soon)   
-End of support: 24.04.2024 (February 24th 2024)
+End of support: 24.05.2024 (May 24th 2024)
 
 Nese XP (24H3)    
 Start date: 05.11.2023 (November 5th 2023)   
@@ -116,7 +116,7 @@ End of support: 12.12.2023 (December 12th 2023)
 
 Nese XP (24H3) (Final 2) (Special ESU for 1 months) (Discord support)  
 Start date: soon (soon)   
-End of support: 12.03.2024 (March 12th 2024)
+End of support: 12.04.2024 (April 12th 2024)
 
 Nese XP (24H3) (roll-up update) (Discord support) 
 
